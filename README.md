@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RkRukshan
+- 👋 Hi, I’m Rukmanghan 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning BTECH
 - 💞️ I’m looking to collaborate on Technology 
