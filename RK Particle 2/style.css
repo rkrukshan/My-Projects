@@ -1,0 +1,11 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+section
+{
+	height: 100vh;
+	background: #fff;
+}
