@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rukmanghan</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
-<img align="right" alt="coding" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2V3Xub0dZ9SaMDgiat__CW&ust=1695304158490000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPC_z6OquYEDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkrukshan&label=Profile%20views&color=0e75b6&style=flat" alt="rkrukshan" /> </p>
 
