@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rukmanghan</h1>
-<h3 align="center">A passionate developer from Srilanka</h3>
+<h3 align="center">I'm a Passionate developer from Srilanka</h3>
 
 <img align="right" alt="coding" width="400"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
